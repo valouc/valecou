@@ -16,4 +16,8 @@ main:
   - name: Contact
     url: '#contact'
     weight: 40
+  - name: Resume
+    url: '#resume'
+    weight: 50
  
+
