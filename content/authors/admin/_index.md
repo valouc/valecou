@@ -45,4 +45,4 @@ Valérie Coudrain is a scientist with interest in landscape ecology. She worked 
 Update March 2021: 
 Looking for a position in research or as a scientific officer. Have a look at my resume and do not hesitate to contact me!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume_French_0321.pdf" "newtab" >}}resume{{< /staticref >}}.
