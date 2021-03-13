@@ -31,20 +31,20 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Data Scientist with Python Track'
   url: ""
-- certificate_url: "https://www.iucn.org"
+- certificate_url: https://www.iucn.org
   date_end: ""
   date_start: "2011-01-21"
   description: ""
   organization: IUCN
   organization_url: https://www.iucn.org
-  title: Assessing Species’ Extinction Risk Using IUCN Red List Methodology
+  title: 'Assessing Species’ Extinction Risk Using IUCN Red List Methodology'
   url: ""
-- certificate_url: "https://www.prstatistics.com/"
+- certificate_url: https://www.prstatistics.com/
   date_end: "2015-10-31"
   date_start: "2015-10-26"
   description: ""
-  organization: PR~Statistics
+  organization: PR Statistics
   organization_url: https://www.prstatistics.com/
-  title: Applied Bayesian modelling for ecologists
+  title: 'Applied Bayesian modelling for ecologists'
   url: ""
 ---
