@@ -3,7 +3,10 @@ widget: accomplishments
 headless: true  # This file represents a page section.
 
 # Order that this section appears on the page.
-weight: 85
+weight: 50
+
+title: Accomplishments
+subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
