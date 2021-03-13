@@ -8,16 +8,16 @@ main:
     url: '#about'
     weight: 10
   - name: Blog
-    url: '#post'
+    url: 'post/'
     weight: 20
   - name: Projects
-    url: '#project'
+    url: 'project/'
     weight: 30
   - name: Contact
     url: '#contact'
     weight: 40
   - name: Resume
-    url: '#resume'
+    url: 'resume/'
     weight: 50
  
 
