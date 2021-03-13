@@ -1,17 +1,8 @@
 ---
-# An instance of the Accomplishments widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
+headless: true  # This file represents a page section.
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 50
-
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
-subtitle:
+# ... Put Your Section Options Here (title etc.) ...
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -19,11 +10,11 @@ date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
+#   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   Begin/end multi-line descriptions with `>-`.
 item:
-- certificate_url: https://www.datacamp.com
+  - certificate_url: https://www.datacamp.com
   date_end: "2020-06-11"
   date_start: ""
   description: ""
@@ -31,7 +22,7 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Data Scientist with Python Track'
   url: ""
-- certificate_url: https://www.iucn.org
+  - certificate_url: https://www.iucn.org
   date_end: ""
   date_start: "2011-01-21"
   description: ""
@@ -39,7 +30,7 @@ item:
   organization_url: https://www.iucn.org
   title: 'Assessing Species’ Extinction Risk Using IUCN Red List Methodology'
   url: ""
-- certificate_url: https://www.prstatistics.com/
+  - certificate_url: https://www.prstatistics.com/
   date_end: "2015-10-31"
   date_start: "2015-10-26"
   description: ""
