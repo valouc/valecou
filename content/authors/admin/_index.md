@@ -2,13 +2,13 @@
 bio: My research interests include landscape ecology and conservation biology.
 education:
   Courses:
-  - Course: PhD in Ecology and Evolution
+  - course: PhD in Ecology and Evolution
     institution: University of Bern and Agroscope ART, Switzerland
     year: 2013
-  - Course: Master in Ecology and Evolution, option Conservation Biology
+  - course: Master in Ecology and Evolution, option Conservation Biology
     institution: University of Bern, Switzerland
     year: 2009
-  - Course: BSc in Biology, option Zoology
+  - course: BSc in Biology, option Zoology
     institution: University of Bern, Switzerland
     year: 2007
 email: ""
@@ -28,7 +28,7 @@ social:
   label: Follow me on Twitter
   link: https://twitter.com/callophrys
 - icon: graduation-cap
-  icon_pack: fab
+  icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=Yw4XGDsAAAAJ
 - icon: github
   icon_pack: fab
