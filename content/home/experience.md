@@ -22,24 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Administrative Assistant / Project manager
+    company: Gyr Edelmetalle AG
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Switzerland
+    date_start: '2019-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Project management
+        * Sales
+        * Quality management
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
+  - title: Postdoc
+    company: Mediterranean Institute of marine and terrestrial Biodiversity and Ecology
+    company_url: 'https://www.imbe.fr/'
+    location: France
+    date_start: '2016-09-01'
+    date_end: '2017-12-31'
+    description: Link between Ecosystem services and the SDG in Mediterranean landscapes.
+    
+  - title: Scientific assistant
+    company: International Union for Conservation of Nature 
+    company_url: 'https://www.iucn.org/'
+    location: Switzerland
     date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_end: '2016-07-31'
+    description: ""
+    
+  - title: Postdoc
+    company: French National Institute for Agricultural Research
+    company_url: 'https://www.inra.fr/'
+    location: France
+    date_start: '2014-09-01'
+    date_end: '2015-08-31'
+    description: Ecolgy of soil organisms in relation to field management.
 ---
