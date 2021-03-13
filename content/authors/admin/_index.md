@@ -1,13 +1,14 @@
 ---
 bio: My research interests include landscape ecology and conservation biology.
 education:
-  - PhD in Ecology and Evolution
+  Courses:
+  - Course: PhD in Ecology and Evolution
     institution: University of Bern and Agroscope ART, Switzerland
     year: 2013
-  - Master in Ecology and Evolution, option Conservation Biology
+  - Course: Master in Ecology and Evolution, option Conservation Biology
     institution: University of Bern, Switzerland
     year: 2009
-  - BSc in Biology, option Zoology
+  - Course: BSc in Biology, option Zoology
     institution: University of Bern, Switzerland
     year: 2007
 email: ""
