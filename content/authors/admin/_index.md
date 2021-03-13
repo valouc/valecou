@@ -38,6 +38,7 @@ social:
   link: https://www.linkedin.com/
 superuser: true
 title: Valérie Coudrain
+
 ---
 
 Valérie Coudrain is a scientist with interest in landscape ecology. She worked on the impacts of fragmentation on wild bees and wasps in agricultural landscapes and on the dynamics of soil organisms in response to field management. Further, she participated as a post-doc in relfexion groups on ecosystem services in Mediterranean landscapes and how to improve collaboration between scientific institutes and politics.
