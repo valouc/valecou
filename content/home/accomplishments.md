@@ -42,4 +42,13 @@ item:
     date_start: '2015-10-26'
     date_end: '2015-10-31'
     description: ''
+  - organization: Centre Plural
+    organization_url: ''
+    title: 'Project management'
+    url: ''
+    certificate_url: ''
+    date_start: '2009-11-04'
+    date_end: '2009-12-09'
+    description: ''
+    
 ---
