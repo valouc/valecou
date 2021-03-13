@@ -30,7 +30,7 @@ item:
     title: Assessing Species Extinction Risk Using IUCN Red List Methodology
   - certificate_url: 'https://www.prstatistics.com'
     date_end: '2015-10-31'
-    date_start: '2015-10-26'
+    date_start: ''
     description: ''
     organization: PR Statistics
     organization_url: 'https://www.prstatistics.com'
