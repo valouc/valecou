@@ -1,52 +1,47 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include landscape ecology and conservation biology.
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - PhD in Ecology and Evolution
+    institution: University of Bern and Agroscope ART, Switzerland
+    year: 2013
+  - Master in Ecology and Evolution, option Conservation Biology
+    institution: University of Bern, Switzerland
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - BSc in Biology, option Zoology
+    institution: University of Bern, Switzerland
+    year: 2007
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Human-nature cohabitation
+- Data analysis
 - Information Retrieval
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
 social:
-- icon: envelope
-  icon_pack: fas
+- icon: connectdevelop
+  icon_pack: fab
   link: /#contact
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/callophrys
 - icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  icon_pack: fab
+  link: https://scholar.google.co.uk/citations?user=Yw4XGDsAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/valouc
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Valérie Coudrain
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Valérie Coudrain is a scientist with interest in landscape ecology. She worked on the impacts of fragmentation on wild bees and wasps in agricultural landscapes and on the dynamics of soil organisms in response to field management. Further, she participated as a post-doc in relfexion groups on ecosystem services in Mediterranean landscapes and how to improve collaboration between scientific institutes and politics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Update March 2021: 
+Looking for a position in research or as a scientific officer. Have a look at my resume and do not hesitate to contact me!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
