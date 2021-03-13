@@ -37,12 +37,7 @@ item:
   description: ""
   organization: IUCN
   organization_url: https://www.iucn.org
-<<<<<<< HEAD
   title: Assessing Species’ Extinction Risk Using IUCN Red List Methodology
-=======
-  title: Assessing Species’ Extinction Risk Using IUCN Red List
-Methodology
->>>>>>> 0d51b578883ed8fc85a6d3fb17e9001155ce2a3f
   url: ""
 - certificate_url: "https://www.prstatistics.com/"
   date_end: "2015-10-31"
