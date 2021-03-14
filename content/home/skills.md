@@ -16,6 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: French, English, German
+  icon: language
+  icon_pack: fas
+  name: Languages
 - description: Good
   icon: r-project
   icon_pack: fab
@@ -24,10 +28,6 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: Basic
-  icon: python
-  icon_pack: fab
-  name: Python
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
