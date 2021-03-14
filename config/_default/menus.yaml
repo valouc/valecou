@@ -10,14 +10,11 @@ main:
   - name: Blog
     url: 'post/'
     weight: 20
-  - name: Projects
-    url: 'project/'
-    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 30
   - name: Resume
     url: 'resume/'
-    weight: 50
+    weight: 40
  
 
